@@ -1,5 +1,5 @@
 # GIF Search Engine
-<li>a search engine which only give results in form of GIF's</li>
+<li>A search engine which only give results in form of GIF's</li>
 <li>I created this search engine to overcome the problem of downloading of Gif's as there was no option available to search for GIF's in google, In order to obtain result we have to mention it specifically.</li>
 <br>
 
@@ -35,8 +35,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 In order to learn more about API's and the mechanism of search engines this project was created.
-
-
+![ss5](https://user-images.githubusercontent.com/60666490/139720134-009129b3-411e-4c7c-911c-97b6e3742980.png)
+![Untitled](https://user-images.githubusercontent.com/60666490/139720171-c79399b4-d8b1-434b-b7ed-1aa115cb1e4a.png)
 <p align="right">(<a href="#Let's Invite ">back to top</a>)</p>
 
 
