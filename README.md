@@ -24,7 +24,7 @@
        <li><a href="https://css-tricks.com/">CSS</a></li>
       <li><a href="https://www.javascript.com/">JavaScript</a></li> 
       </ul>
-  <p align="right">(<a href="#GIF Search Engine">back to top</a>)</p>
+  <p align="right">(<a href="#GIFSearchEngine">back to top</a>)</p>
   </ol>
   
 ## Objective
