@@ -1,6 +1,6 @@
 # GIF-Search-Engine
 <li>A search engine which only give results in form of GIF's</li>
-<li>I created this search engine to overcome the problem of downloading of Gif's as there was no option available to search for GIF's in google, In order to obtain result we have to mention it specifically.</li>
+<li>I created this search engine to overcome the problem of downloading of Gif's as there was no option available to search for GIF's in GOOGLE, In order to obtain result we have to mention it specifically.</li>
 <br>
 
 <!-- TABLE OF CONTENTS -->
@@ -28,7 +28,7 @@
   </ol>
   
 ## Objective
-<li>To learn and implement the use of API in javascript along with some Html and Css.</li>
+<li>To learn and implement the use of API in Javascript along with some HTML and CSS.</li>
 <p align="right">(<a href="#GIF-Search-Engine ">back to top</a>)</p>
 
 
